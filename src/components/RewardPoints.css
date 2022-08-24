@@ -1,0 +1,20 @@
+table {
+  margin: auto;
+  min-width: 600px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+table thead tr {
+  background-color: #009879;
+  color: #ffffff;
+}
+
+h3 {
+  color: cadetblue;
+  font-size: 24px;
+}
+
+.monthly {
+  font-weight: Bold;
+  font-size: 1.5rem;
+}

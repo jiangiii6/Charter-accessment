@@ -1,0 +1,114 @@
+[
+  {
+    "orderId": "101",
+    "customerId": "601",
+    "customerName": "Alice",
+    "date": "2022-06-22",
+    "amount": 200
+  },
+  {
+    "orderId": "102",
+    "customerId": "601",
+    "customerName": "Alice",
+    "date": "2022-07-30",
+    "amount": 196
+  },
+  {
+    "orderId": "103",
+    "customerId": "601",
+    "customerName": "Alice",
+    "date": "2022-08-10",
+    "amount": 266
+  },
+  {
+    "orderId": "104",
+    "customerId": "601",
+    "customerName": "Alice",
+    "date": "2022-08-16",
+    "amount": 80
+  },
+  {
+    "orderId": "105",
+    "customerId": "602",
+    "customerName": "Ben",
+    "date": "2022-06-14",
+    "amount": 120
+  },
+  {
+    "orderId": "106",
+    "customerId": "602",
+    "customerName": "Ben",
+    "date": "2022-06-20",
+    "amount": 163
+  },
+  {
+    "orderId": "107",
+    "customerId": "602",
+    "customerName": "Ben",
+    "date": "2022-06-26",
+    "amount": 60
+  },
+  {
+    "orderId": "108",
+    "customerId": "602",
+    "customerName": "Ben",
+    "date": "2022-07-12",
+    "amount": 196
+  },
+  {
+    "orderId": "109",
+    "customerId": "602",
+    "customerName": "Ben",
+    "date": "2022-07-22",
+    "amount": 130
+  },
+  {
+    "orderId": "110",
+    "customerId": "602",
+    "customerName": "Ben",
+    "date": "2022-08-20",
+    "amount": 266
+  },
+  {
+    "orderId": "111",
+    "customerId": "603",
+    "customerName": "Crystal",
+    "date": "2022-07-05",
+    "amount": 150
+  },
+  {
+    "orderId": "112",
+    "customerId": "603",
+    "customerName": "Crystal",
+    "date": "2022-07-12",
+    "amount": 26
+  },
+  {
+    "orderId": "113",
+    "customerId": "603",
+    "customerName": "Crystal",
+    "date": "2022-07-29",
+    "amount": 99
+  },
+  {
+    "orderId": "114",
+    "customerId": "603",
+    "customerName": "Crystal",
+    "date": "2022-08-19",
+    "amount": 110
+  },
+  {
+    "orderId": "115",
+    "customerId": "603",
+    "customerName": "Crystal",
+    "date": "2022-08-22",
+    "amount": 186
+  },
+  {
+    "orderId": "116",
+    "customerId": "603",
+    "customerName": "Crystal",
+    "date": "2022-08-29",
+    "amount": 210
+  }
+]
